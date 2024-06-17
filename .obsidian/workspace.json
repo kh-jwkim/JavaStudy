@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "fe0f464ebe16ee41",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ceecd7179eb43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fb27cb259e73649",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "742e30ce44cec1ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "8358453abbc2e2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed089da6434d551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7d1ba36971e2105",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00f0917d3c2f1563",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d40696ad4c83a837",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27cd12130fbba73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed311f45dabf3a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55c900f1401bbfb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1a44385592e9e59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d28ba6647c6936c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7fb27cb259e73649",
+  "lastOpenFiles": [
+    "Chapter02/Java의 자료형.md",
+    "Chapter01/프로그래밍과 자바.md",
+    "Chapter02",
+    "Chapter01/01_자바 프로그래밍 시작하기.md"
+  ]
+}
